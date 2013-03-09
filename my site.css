@@ -1,0 +1,54 @@
+html,body{
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+table.container{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#header{
+  height: 100px;
+}
+
+#footer{
+  height: 80px;
+  text-align:center;
+}
+
+#leftpanel{
+  width: 150px;
+}
+#rightpanel{
+  width: 150px;
+}
+#leftpanel,
+#mainpanel,
+#rightpanel{
+  vertical-align: top;
+}
+
+ul.menu{
+  list-style-type: none;
+  padding-left:15px;
+  padding-top: 20px;
+  line-height:300%;
+}
+
+ul.menu>li{
+  margin-bottom: 7px;
+  
+}
+#thank{text-align:center}
+p.top{font-size:200;
+text-align:center}
+p.andaze{font-size:20;
+  color:darkblue;
+}
+#raj{color:magenta;
+  text-align:center
+}
